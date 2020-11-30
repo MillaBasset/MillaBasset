@@ -1,6 +1,6 @@
-## Hello! I'm SashLilac, a.k.a. MillaDev.
+## Hello! I'm SashLilac, a.k.a. T-S-3.
 
-Disclaimer: I am *not* https://github.com/milladev.
+Disclaimer: I am *not* https://github.com/T-S-3.
 
 But enough of that...
 
