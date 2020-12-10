@@ -1,6 +1,4 @@
-## Hello! I'm SashLilac, a.k.a. T-S-3.
-
-Disclaimer: I am *not* https://github.com/T-S-3.
+## Hello! I'm SashLilac, a.k.a. SpinTriple.
 
 But enough of that...
 
