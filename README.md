@@ -6,7 +6,7 @@ But enough of that...
 
 I just love cybersecurity. I'm 16, and trying to major in it.
 
-I go by he/him, or she/her, or basically any pronouns, I don't care.
+Feel free to use any pronouns for me! I have no preference, people have referred to me in a variety of different ways.
 
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
@@ -14,11 +14,13 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
+Contact me at Milla#7746 on Discord.
+
 ## Cambridge
 
 I'm working on my own Tetris clone! https://github.com/SashLilac/cambridge
 
-I also have a Discord server for the project! https://discord.gg/mteMJw4
+I also have a Discord server for the project! https://discord.gg/AADZUmgsph
 
 Check out https://t-sp.in, a website owned by [sinefuse](https://github.com/sinefuse) for Cambridge and other personal projects.
 
