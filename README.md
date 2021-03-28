@@ -1,4 +1,4 @@
-## Hello! I'm SashLilac, a.k.a. SpinTriple.
+## Hello! I'm SashLilac, a.k.a. Milla.
 
 But enough of that...
 
