@@ -1,4 +1,4 @@
-## Hello! I'm SashLilac, a.k.a. Milla.
+## Hello! I'm SashLilac, a.k.a. TS3 / Milla.
 
 But enough of that...
 
@@ -14,7 +14,7 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
-Contact me at Milla#7746 on Discord.
+Contact me at TS3#7746 on Discord.
 
 ## Cambridge
 
