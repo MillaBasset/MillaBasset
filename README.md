@@ -1,7 +1,5 @@
 ## Hello! I'm SashLilac, a.k.a. TS3 / Milla.
 
-But enough of that...
-
 ## About Me
 
 I just love cybersecurity. I'm 16, and trying to major in it.
@@ -14,7 +12,7 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
-Contact me at TS3#7746 on Discord.
+Contact me at TS3#7746 on Discord, or at my business e-mail: ts3.business@gmail.com.
 
 ## Cambridge
 
