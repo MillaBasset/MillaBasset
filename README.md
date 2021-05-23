@@ -16,7 +16,7 @@ Contact me at Milla#4444 on Discord, or at my business e-mail: ts3.business@gmai
 
 ## Cambridge
 
-I'm working on my own Tetris clone! https://github.com/SashLilac/cambridge
+I'm working on my own Tetris clone! https://github.com/MillaBasset/cambridge
 
 I also have a Discord server for the project! https://discord.gg/AADZUmgsph
 
