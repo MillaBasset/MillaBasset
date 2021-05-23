@@ -1,10 +1,10 @@
-## Hello! I'm SashLilac, a.k.a. TS3 / Milla.
+## Hello! I'm Milla.
 
 ## About Me
 
-I just love cybersecurity. I'm 16, and trying to major in it.
+I just love cybersecurity. I'm 17, and trying to major in it.
 
-Feel free to use any pronouns for me! I have no preference, people have referred to me in a variety of different ways.
+Going by she/her or they/them, under the name of Milla or Milla Basset online.
 
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
@@ -12,7 +12,7 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
-Contact me at TS3#7746 on Discord, or at my business e-mail: ts3.business@gmail.com.
+Contact me at Milla#4444 on Discord, or at my business e-mail: ts3.business@gmail.com.
 
 ## Cambridge
 
