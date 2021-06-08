@@ -1,10 +1,14 @@
-## Hello! I'm Milla.
+# Hello! I'm Milla. Welcome to my GitHub page.
 
 ## About Me
 
-I just love cybersecurity. I'm 17, and trying to major in it.
+Age of 17 years old. Passionate about anything computer science, including but not limited to:
 
-Going by she/her or they/them, under the name of Milla or Milla Basset online.
+- Cybersecurity
+- Game development
+- General utility and tool design
+
+Going by she/her or they/them (although my pronouns may change without notice), under the name of Milla or Milla Basset online.
 
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
