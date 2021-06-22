@@ -16,7 +16,7 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
-Contact me at Milla#4444 on Discord, or at my business e-mail: ts3.business@gmail.com.
+Contact me at Milla#0129 on Discord, or at my business e-mail: ts3.business@gmail.com.
 
 ## Cambridge
 
