@@ -8,7 +8,7 @@ Age of 17 years old. Passionate about anything computer science, including but n
 - Game development
 - General utility and tool design
 
-Going by she/her & they/them (although my pronouns may change without notice), under the name of Milla or Milla Basset online.
+Current pronouns: he/him. Name of Milla online.
 
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
