@@ -8,7 +8,7 @@ Age of 17 years old. Passionate about anything computer science, including but n
 - Game development
 - General utility and tool design
 
-Current pronouns: he/him. Name of Milla online.
+Current pronouns will always be in my GitHub bio.
 
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
