@@ -26,11 +26,7 @@ Check out https://t-sp.in, a website owned by [sinefuse](https://github.com/sine
 
 The Cambridge website: https://t-sp.in/cambridge
 
-My dev partners:
-- [joezeng](https://github.com/joezeng)
-- [Oshisaure](https://github.com/oshisaure)
-
-<3
+## Thanks for visiting my page! See you around! <3
 
 <!--
 **SashLilac/SashLilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
