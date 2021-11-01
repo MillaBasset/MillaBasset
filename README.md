@@ -10,7 +10,7 @@ Age of 17 years old. Passionate about anything computer science, including but n
 
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
-- Tetris (including official games and clones)
+- Tetris and other block stackers
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
@@ -18,7 +18,7 @@ Contact me at Milla#0129 on Discord, or at my business e-mail: ts3.business@gmai
 
 ## Cambridge
 
-I'm working on my own Tetris clone! https://github.com/MillaBasset/cambridge
+I'm working on my own block stacking engine! https://github.com/MillaBasset/cambridge
 
 I also have a Discord server for the project! https://discord.gg/AADZUmgsph
 
