@@ -2,7 +2,7 @@
 
 ## About Me
 
-Age of 17 years old. Passionate about anything computer science, including but not limited to:
+17 years old, birthday is April 30. Passionate about anything computer science, including but not limited to:
 
 - Cybersecurity
 - Game development
@@ -14,7 +14,7 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
-Contact me at Milla#0129 on Discord, or at my business e-mail: ts3.business@gmail.com.
+Contact me at Milla#5642 on Discord, or at my business e-mail: ts3.business@gmail.com.
 
 ## Cambridge
 
