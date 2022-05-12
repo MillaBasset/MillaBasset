@@ -2,7 +2,7 @@
 
 ## About Me
 
-17 years old, birthday is April 30. Passionate about anything computer science, including but not limited to:
+18 years old, birthday is April 30. Passionate about anything computer science, including but not limited to:
 
 - Cybersecurity
 - Game development
@@ -11,6 +11,7 @@
 As for games, I play literally anything, for any console, including PC. However, I have a list of favorites:
 
 - Tetris and other block stackers
+- 4-key rhythm games (usually Etterna)
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
