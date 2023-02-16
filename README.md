@@ -26,6 +26,6 @@ Please download the game here: https://github.com/MillaBasset/cambridge
 The Discord for the project serves as the easiest way to communicate with me.  
 Join it here: https://discord.gg/AADZUmgsph
 
-The Cambridge website is located here, with more detailed instructions on how to set up the game: https://t-sp.in/cambridge
+The Cambridge website is located on t-sp.in, with more detailed instructions on how to set up the game: https://t-sp.in/cambridge
 
 ## Thanks for visiting my page! There will be more to come soon...
