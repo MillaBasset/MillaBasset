@@ -2,7 +2,8 @@
 
 ## About Me
 
-18 years old, birthday is April 30. Passionate about anything computer science, including but not limited to:
+I am an 18 year old student at the University of Maryland - College Park, born on April 30th.  
+I am a Computer Science and Math dual major, with a general focus in the areas of:
 
 - Cybersecurity
 - Game development
@@ -15,31 +16,16 @@ As for games, I play literally anything, for any console, including PC. However,
 - Freedom Planet (and any other GalaxyTrail game)
 - Anything on the Nintendo Switch
 
-Contact me at Milla#5642 on Discord, or at my business e-mail: ts3.business@gmail.com.
+If you want to reach me, I'm usually available to chat on Discord (Milla#5642).
 
 ## Cambridge
 
-I'm working on my own block stacking engine! https://github.com/MillaBasset/cambridge
+Cambridge is a customizable block stacking engine that focuses on empowering mod creators.  
+Please download the game here: https://github.com/MillaBasset/cambridge
 
-I also have a Discord server for the project! https://discord.gg/AADZUmgsph
+The Discord for the project serves as the easiest way to communicate with me.  
+Join it here: https://discord.gg/AADZUmgsph
 
-Check out https://t-sp.in, a website owned by [sinefuse](https://github.com/sinefuse) for Cambridge and other personal projects.
+The Cambridge website is located here, with more detailed instructions on how to set up the game: https://t-sp.in/cambridge
 
-The Cambridge website: https://t-sp.in/cambridge
-
-## Thanks for visiting my page! See you around! <3
-
-<!--
-**SashLilac/SashLilac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Thanks for visiting my page! There will be more to come soon...
