@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am an 18 year old student at the University of Maryland - College Park, born on April 30th.  
+I am a 19 year old student at the University of Maryland - College Park, born on April 30th.  
 I am a Computer Science and Math dual major, with a general focus in the areas of:
 
 - Cybersecurity
