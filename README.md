@@ -18,14 +18,10 @@ As for games, I play literally anything, for any console, including PC. However,
 
 If you want to reach me, I'm usually available to chat on Discord (Milla#5642).
 
-## Cambridge
+## Where is Cambridge?
 
-Cambridge is a customizable block stacking engine that focuses on empowering mod creators.  
-Please download the game here: https://github.com/MillaBasset/cambridge
-
-The Discord for the project serves as the easiest way to communicate with me.  
-Join it here: https://discord.gg/AADZUmgsph
-
-The Cambridge website is located on t-sp.in, with more detailed instructions on how to set up the game: https://t-sp.in/cambridge
+Cambridge is currently discontinued for the time being as I have felt for a while that I lack the motivation and energy to maintain the repository.  
+Please check out [Tetro48's fork](https://github.com/Tetro48/cambridge) of the engine, although I will offer no support on how to use it.  
+**To employers:** My version of Cambridge is available upon request.
 
 ## Thanks for visiting my page! There will be more to come soon...
