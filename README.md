@@ -20,16 +20,12 @@ If you want to reach me, I'm usually available to chat on Discord (millabasset).
 
 ## Where is Cambridge?
 
-I am no longer the maintainer of Cambridge due to rather extreme burnout and various other factors.  
-There are other maintainers out there who have picked the project up in my stead. Here is a list of those I am aware of:
-
-- A group of former contributors has created an organization dedicated to the game, located [here](https://github.com/cambridge-stacker). To my knowledge, this is where ongoing development of the game and modpack are taking place.
-- A user by the name of Tetro48 has created their own [fork](https://github.com/Tetro48/cambridge) of the original engine, adding many new features that the original lacks. However, it is quite unstable and generally targeted towards more technically knowledgeable players.
-
-Please keep in mind that these continuations are not affiliated with me and as such I cannot provide support with anything pertaining to them. You should direct all questions and requests for support to the maintainers of these projects.
+In an effort to promote continued development for the project, it has been moved to [its own organization](https://github.com/cambridge-stacker).  
+Please do not e-mail or otherwise message me for support with the project. All questions should be redirected to the [Cambridge Discord](https://discord.gg/AADZUmgsph).
 
 ### To Employers
 
-I still believe the project is an excellent representation of my skills. If you would like to request my copy, please send me an e-mail.
+All my contributions to the Cambridge project are located at the repositories contained within the organization.  
+I believe this project to be a sufficient representation of my skills. Please e-mail me with any further questions you may have.
 
 ## Thanks for visiting my page! There will be more to come soon...
