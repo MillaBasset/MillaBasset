@@ -18,7 +18,7 @@ As for games, I play literally anything, for any console, including PC. However,
 
 If you want to reach me, I'm usually available to chat on Discord (millabasset).
 
-## Where is Cambridge?
+## Where is [Cambridge](https://t-sp.in/cambridge)?
 
 In an effort to promote continued development for the project, it has been moved to [its own organization](https://github.com/cambridge-stacker).  
 Please do not e-mail or otherwise message me for support with the project. All questions should be redirected to the [Cambridge Discord](https://discord.gg/AADZUmgsph).
@@ -28,4 +28,4 @@ Please do not e-mail or otherwise message me for support with the project. All q
 All my contributions to the Cambridge project are located at the repositories contained within the organization.  
 I believe this project to be a sufficient representation of my skills. Please e-mail me with any further questions you may have.
 
-## Thanks for visiting my page! There will be more to come soon...
+## Thanks for visiting my page! Stay tuned for new things from me in the future.
