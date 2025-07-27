@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a 21 year old undergraduate and part-time developer born on April 30th.  
+I am a part-time developer born on April 30th.  
 I am a Computer Science and Math dual major, with a general focus in the areas of:
 
 - Cybersecurity
